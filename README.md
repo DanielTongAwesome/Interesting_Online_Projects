@@ -1,19 +1,19 @@
 <img src="icon.png" align="right" />
 
 
-### Interesting Projects   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Interesting Projects   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 > A list of  intereting projects that I came across online
 
-#### Game of Life 
+## Project 1 : Game of Life 
 
-##### Background:
+### Background:
 
-![Game of Life Demo](/Users/danieltongawesome/Library/Mobile Documents/com~apple~CloudDocs/Study/Interesting_Online_Projects/Gospers_glider_gun.gif)
+![Demo_Game_of_Life](Gospers_glider_gun.gif)
 
 The **Game of Life**, also known simply as **Life**, is a [cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton) devised by the British [mathematician](https://en.wikipedia.org/wiki/Mathematician) [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) in 1970.[[1\]](https://en.wikipedia.org/wiki/Conway's_Game_of_Life#cite_note-1) It is a [zero-player game](https://en.wikipedia.org/wiki/Zero-player_game), meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is [Turing complete](https://en.wikipedia.org/wiki/Turing_complete) and can simulate a [universal constructor](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor) or any other [Turing machine](https://en.wikipedia.org/wiki/Turing_machine).
 
-##### Game Rule:
+### Game Rule:
 
 The universe of the Game of Life is an infinite, two-dimensional [orthogonal](https://en.wikipedia.org/wiki/Orthogonality) grid of square *cells*, each of which is in one of two possible states, *live* or *dead*, (or *populated* and *unpopulated*, respectively). Every cell interacts with its eight *[neighbours](https://en.wikipedia.org/wiki/Moore_neighborhood)*, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
 
