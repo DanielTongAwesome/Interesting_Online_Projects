@@ -1,7 +1,7 @@
 <img src="icon.png" align="right" />
 
 
-# Interesting Projects   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Interesting Projects   [](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 > A list of  intereting projects that I came across online
 
